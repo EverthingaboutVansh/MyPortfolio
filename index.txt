@@ -1,0 +1,226 @@
+# sidebar
+
+alt = Vansh Kapoor
+Vansh Kapoor
+UX Designer & Web developer
+
+Show Contacts
+
+Email
+kapoorvansh070@gmail.com
+
+Phone
++91 7065316119
+
+Birthday
+November 25,2001
+
+Location
+A2/1 Paschim Vihar New Delhi
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+About me
+
+With over one year of hands-on experience as a Junior UX Designer and Critical Incident Response Analyst, I have a proven track record of leveraging Figma, prompt engineering, web development, Java, MySQL, and the MERN Stack to tackle complex business challenges.
+
+I’m actively honing my skills on cutting-edge AI models like Deepseek‑r1 and ChatGPT‑o1, blending creative design with robust technical expertise to drive innovation and excellence. Currently, I'm developing AI agents to streamline everyday tasks—excited to bring this passion to groundbreaking projects! 🚀🎨💻
+
+
+## service
+
+My Services
+
+alt = design icon
+Web design
+Modern and high-quality design made at a professional level.
+
+alt = Web development icon
+Web development
+High-quality development of sites at the professional level.
+
+alt = mobile app icon
+Mobile apps
+Professional development of applications for Android using Kotlin.
+
+alt = camera icon
+Photography
+A side hobby evolved into a cinematic visualist, mastering the art of dynamic range.
+
+
+## Letter of Recommendation
+
+Letter of Recommendation
+
+alt = Basant Rai.
+Basant Rai.
+
+
+alt = Shivani Verma.
+Shivani Verma.
+
+
+alt = Someone Experienced.
+Someone Experienced.
+
+
+alt = Rahul Roy/Shishir Anand.
+Rahul Roy/Shishir Anand.
+
+
+# resume
+
+Resume
+
+Education
+
+Jagan Institute Of Management Studies
+2020-2023
+Bachelor of Computer Applications - 88.4%
+
+Neo Convent Sr. Sec. School
+2019-2020
+12th Commerce - 88.%
+
+Neo Convent Sr. Sec. School
+2017-2018
+10th CBSE - 78.2%
+
+Experience
+
+HCL Tech - Analyst
+Sept 2024 — Present
+Leveraged Figma to craft seamless user interfaces by integrating UX principles, qualitative research insights, and natural human patterns.
+
+Graduate Trainee
+Dec 2023 — Aug 2024
+Managed and resolved critical incidents across multiple sites using real-time alerts, ensuring swift, accountable response and efficient client request handling.
+
+
+My skills
+
+Web design
+80%
+Graphic design
+70%
+Critical Incident Management
+90%
+Java
+80%
+
+
+
+# portfolio
+
+Portfolio
+
+All
+Web design
+Applications
+Web development
+
+Select category
+All
+Web design
+Applications
+Web development
+
+alt = finance
+Finance
+Web development
+
+alt = orizon
+Orizon
+Web development
+
+alt = fundo
+Fundo
+Web design
+
+alt = brawlhalla
+Brawlhalla
+Applications
+
+alt = dsm.
+DSM.
+Web design
+
+alt = metaspark
+MetaSpark
+Web design
+
+alt = summary
+Summary
+Web development
+
+alt = task manager
+Task Manager
+Applications
+
+alt = arrival
+Arrival
+Web development
+
+
+
+# blog
+
+Blog
+
+alt = Design conferences in 2022
+Design
+Fab 23, 2022
+Design conferences in 2022
+Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
+
+alt = Best fonts every designer
+Design
+Fab 23, 2022
+Best fonts every designer
+Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
+
+alt = Design digest #80
+Design
+Fab 23, 2022
+Design digest #80
+Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
+
+alt = UI interactions of the week
+Design
+Fab 23, 2022
+UI interactions of the week
+Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
+
+alt = The forgotten art of spacing
+Design
+Fab 23, 2022
+The Forgotten Art Of Spacing
+Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+alt = Design digest #79
+Design
+Fab 23, 2022
+Design Digest #79
+Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
+
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
